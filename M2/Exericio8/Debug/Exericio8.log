@@ -1,0 +1,7 @@
+﻿  Origem.cpp
+C:\Users\arthurin915\Downloads\AtividadesCG-main\AtividadesCG-main\M2\Exericio8\Origem.cpp(145,44): warning C4305: 'argumento': truncamento de 'double' para 'T'
+          with
+          [
+              T=float
+          ]
+  Exericio8.vcxproj -> C:\Users\arthurin915\Downloads\AtividadesCG-main\AtividadesCG-main\M2\Debug\Hello3D.exe
